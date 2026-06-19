@@ -44,7 +44,6 @@
 
 ## Ссылки на программное обеспечение
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Visual Studio CE](https://visualstudio.microsoft.com/ru/) 
 - [ONLYOFFICE](https://www.onlyoffice.com/ru/download-desktop)
 - [Draw.io](https://www.drawio.com/)
 - [Figma](https://www.figma.com/downloads/)
