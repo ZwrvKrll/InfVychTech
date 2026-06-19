@@ -11,7 +11,7 @@
 ## Ссылки на автора репозитория:
 - [VK](https://vk.com/zwrvkrll)
 - [Telegram](https://t.me/ZwrvKrll)
-- [Delta Chat](https://i.delta.chat/#6ABD114B35C3AB05C92BBE7CC497830A638859EC&v=3&i=x9GTyE-EwdTPsj-Rqk7kp6rP&s=B5JoHLZMZ0OucbekNESZm2WR&a=zwrvkrll%40vk.com&n=ZwrvKrll)
+- [DeltaChat](https://i.delta.chat/#6ABD114B35C3AB05C92BBE7CC497830A638859EC&v=3&i=x9GTyE-EwdTPsj-Rqk7kp6rP&s=B5JoHLZMZ0OucbekNESZm2WR&a=zwrvkrll%40vk.com&n=ZwrvKrll)
 - [Корпоративный портал НовГУ](https://portal.novsu.ru/person/256929)
 
 ## Ссылки на необходимые ресурсы:
